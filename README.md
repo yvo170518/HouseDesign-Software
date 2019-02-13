@@ -1,7 +1,7 @@
 # HouseDesign-Software
-(group project) The software for a virtual house design company.
+(group project) Desian for a virtual house design company.
 
-This is the house design software UI I designed with 4 other group members using Proto.io.
+This is the house decoration software UI I designed with 4 other group members using Proto.io.
 
 This repository only contains my share of work.
 
