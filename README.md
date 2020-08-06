@@ -6,7 +6,7 @@ The software aims to increase client involvements in designing their own homes w
 
 To view the mobile app, download https://github.com/yvoxu/HouseDesign-Software/blob/master/House-Design-Mobile.html and open it on your local machine.
 
-Web app demo:
+**Web app demo:**
 ![index](https://github.com/yvoxu/HouseDesign-Software/blob/master/img/main.png)
 ![imgupload](https://github.com/yvoxu/HouseDesign-Software/blob/master/img/upload%20img.png)
 ![prototypes](https://github.com/yvoxu/HouseDesign-Software/blob/master/img/ptototypes.png)
